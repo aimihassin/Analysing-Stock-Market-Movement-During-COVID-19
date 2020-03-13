@@ -1,3 +1,3 @@
-# Master-of-Data-Science
+# Data Mining
 
-This is my Master of Data Science courses repo
+This repository is for my Data Mining course in Master of Data Science.
